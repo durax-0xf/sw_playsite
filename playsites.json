@@ -45,5 +45,6 @@
     "IAHL": {"default_color": "f2b827"},
     "ULTIMATE": {"default_color": "f2b827"},
     "IHI_TV": {"default_color": "f2b827"},
-    "NEXTGEN": {"default_color": "f2b827"}
+    "NEXTGEN": {"default_color": "f2b827"},
+    "BIHF": {"default_color": "f2b827"}
 }
