@@ -47,5 +47,6 @@
     "IHI_TV": {"default_color": "f2b827"},
     "NEXTGEN": {"default_color": "f2b827"},
     "BIHF": {"default_color": "f2b827"},
-    "HOCKEYNEWS": {"default_color": "f2b827"}
+    "HOCKEYNEWS": {"default_color": "f2b827"},
+    "LT_HOCKEY": {"default_color": "f2b827"}
 }
